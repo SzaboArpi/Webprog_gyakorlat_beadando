@@ -33,11 +33,12 @@ nav ul {
 }
 
 nav ul li {
+    display: inline;
     padding: 0px 15px;;
 }
 
 nav ul li.active {
-    border-right: 5px solid blue;
+    border-bottom: 5px solid blue;
 }
 
 nav ul a {
